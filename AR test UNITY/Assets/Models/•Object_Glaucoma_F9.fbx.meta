@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 928d5172d408f4e4cad74bf0a87c8ff6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001
+    100002: 002
+    100004: 004a
+    100006: 005a
+    100008: 006a
+    100010: 007a
+    100012: 008b
+    100014: 009b
+    100016: aa
+    100018: aaa
+    100020: aaaa
+    100022: B001a_1
+    100024: B002
+    100026: B003
+    100028: B004
+    100030: B005
+    100032: B006
+    100034: B007
+    100036: B008
+    100038: B009
+    100040: B010
+    100042: BASE_WHIRL
+    100044: bb
+    100046: bbb
+    100048: bbbb
+    100050: cc
+    100052: ccc
+    100054: cccc
+    100056: cccc_2
+    100058: Circle_1
+    100060: dd
+    100062: ddd
+    100064: ee
+    100066: eee
+    100068: eeee
+    100070: ff
+    100072: fff
+    100074: ffff
+    100076: FORMATION_WHIRL
+    100078: IMAGE_SPHERE
+    100080: INNER_CORE
+    100082: Main_a
+    100084: Main_c
+    100086: PROGRESS
+    100088: Ribs_001
+    100090: Ribs_LOW
+    100092: SURROND_WHIRL
+    100094: //RootNode
+    400000: 001
+    400002: 002
+    400004: 004a
+    400006: 005a
+    400008: 006a
+    400010: 007a
+    400012: 008b
+    400014: 009b
+    400016: aa
+    400018: aaa
+    400020: aaaa
+    400022: B001a_1
+    400024: B002
+    400026: B003
+    400028: B004
+    400030: B005
+    400032: B006
+    400034: B007
+    400036: B008
+    400038: B009
+    400040: B010
+    400042: BASE_WHIRL
+    400044: bb
+    400046: bbb
+    400048: bbbb
+    400050: cc
+    400052: ccc
+    400054: cccc
+    400056: cccc_2
+    400058: Circle_1
+    400060: dd
+    400062: ddd
+    400064: ee
+    400066: eee
+    400068: eeee
+    400070: ff
+    400072: fff
+    400074: ffff
+    400076: FORMATION_WHIRL
+    400078: IMAGE_SPHERE
+    400080: INNER_CORE
+    400082: Main_a
+    400084: Main_c
+    400086: PROGRESS
+    400088: Ribs_001
+    400090: Ribs_LOW
+    400092: SURROND_WHIRL
+    400094: //RootNode
+    2100000: GLOW
+    2100002: 001
+    2100004: GL1
+    2100006: GL 4
+    2100008: 005a
+    2100010: GL3
+    2100012: 007a
+    2100014: 008b
+    2100016: 009b
+    2100018: Main_a
+    2100020: GL1+GLOW
+    2100022: B007
+    2100024: B006
+    2100026: B005
+    2100028: B004
+    2100030: B003
+    2100032: B002
+    2100034: B001a
+    2100036: Progress
+    2100038: CYAN
+    2100040: GREEN
+    2100042: BLUE
+    2100044: MAGENTA
+    2100046: LIME
+    2100048: YELLOW
+    2100050: GL2
+    2300000: 001
+    2300002: 002
+    2300004: 004a
+    2300006: 005a
+    2300008: 006a
+    2300010: 007a
+    2300012: 008b
+    2300014: 009b
+    2300016: aa
+    2300018: aaa
+    2300020: aaaa
+    2300022: B001a_1
+    2300024: B002
+    2300026: B003
+    2300028: B004
+    2300030: B005
+    2300032: B006
+    2300034: B007
+    2300036: B008
+    2300038: B009
+    2300040: B010
+    2300042: bb
+    2300044: bbb
+    2300046: bbbb
+    2300048: cc
+    2300050: ccc
+    2300052: cccc
+    2300054: cccc_2
+    2300056: Circle_1
+    2300058: dd
+    2300060: ddd
+    2300062: ee
+    2300064: eee
+    2300066: eeee
+    2300068: ff
+    2300070: fff
+    2300072: ffff
+    2300074: INNER_CORE
+    2300076: Main_a
+    2300078: Main_c
+    3300000: 001
+    3300002: 002
+    3300004: 004a
+    3300006: 005a
+    3300008: 006a
+    3300010: 007a
+    3300012: 008b
+    3300014: 009b
+    3300016: aa
+    3300018: aaa
+    3300020: aaaa
+    3300022: B001a_1
+    3300024: B002
+    3300026: B003
+    3300028: B004
+    3300030: B005
+    3300032: B006
+    3300034: B007
+    3300036: B008
+    3300038: B009
+    3300040: B010
+    3300042: bb
+    3300044: bbb
+    3300046: bbbb
+    3300048: cc
+    3300050: ccc
+    3300052: cccc
+    3300054: cccc_2
+    3300056: Circle_1
+    3300058: dd
+    3300060: ddd
+    3300062: ee
+    3300064: eee
+    3300066: eeee
+    3300068: ff
+    3300070: fff
+    3300072: ffff
+    3300074: INNER_CORE
+    3300076: Main_a
+    3300078: Main_c
+    4300000: INNER_CORE
+    4300002: 001
+    4300004: 002
+    4300006: 004a
+    4300008: 005a
+    4300010: 006a
+    4300012: 007a
+    4300014: 008b
+    4300016: 009b
+    4300018: Main_a
+    4300020: Main_c
+    4300022: B010
+    4300024: B009
+    4300026: B008
+    4300028: B007
+    4300030: B006
+    4300032: B005
+    4300034: B004
+    4300036: B003
+    4300038: B002
+    4300040: B001a_1
+    4300042: Circle_1
+    4300044: aa
+    4300046: bb
+    4300048: cc
+    4300050: dd
+    4300052: ee
+    4300054: ff
+    4300056: aaa
+    4300058: bbb
+    4300060: ccc
+    4300062: ddd
+    4300064: eee
+    4300066: fff
+    4300068: aaaa
+    4300070: bbbb
+    4300072: cccc
+    4300074: cccc_2
+    4300076: eeee
+    4300078: ffff
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 001
+    second: {fileID: 2100000, guid: 94226657247154e9abd97960bf66f085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 005a
+    second: {fileID: 2100000, guid: 48097657749874d629492db4bdc05a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 007a
+    second: {fileID: 2100000, guid: 03a42f4a9f385495081507cdfb3d9b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 008b
+    second: {fileID: 2100000, guid: aea6a1a025d784806a81a9417a7df43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 009b
+    second: {fileID: 2100000, guid: 0025b1fb2600b445f81bee6be6747fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B001a
+    second: {fileID: 2100000, guid: c039ef19a62ff4578a7a8006d8aae92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B002
+    second: {fileID: 2100000, guid: f872f4cdee66e4041a2b57ad16253ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B003
+    second: {fileID: 2100000, guid: ef2110249bd4f4486948e7a7ce40db17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B004
+    second: {fileID: 2100000, guid: 166b0cdaed6ce4cb4abcbf3ebe90e67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B005
+    second: {fileID: 2100000, guid: 375fa3f1c7e064e5a9454911c41b23a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B006
+    second: {fileID: 2100000, guid: f0b314a82c097438f8e306118f725667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B007
+    second: {fileID: 2100000, guid: 822cc39b0d4804eb2a8dccc477fecfd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE
+    second: {fileID: 2100000, guid: 14d3932180d1248e2a367c624b9a2980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CYAN
+    second: {fileID: 2100000, guid: 51fad7bcd86d243d6b807123dddf2a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GL 4
+    second: {fileID: 2100000, guid: 993c048d6104b43a1ae2900518f19580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GL1
+    second: {fileID: 2100000, guid: 43762feec16ce4e4e9a2a8806ebef0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GL1+GLOW
+    second: {fileID: 2100000, guid: 09627d77486dc4e36a73f79ff1f997d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GL2
+    second: {fileID: 2100000, guid: 41043302347e84f19b87732c6fc2e4ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GL3
+    second: {fileID: 2100000, guid: 55617bb4120a34575b320c14b892f6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLOW
+    second: {fileID: 2100000, guid: c072575952f4546319f5f5eabd982c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREEN
+    second: {fileID: 2100000, guid: 1e6ef51cab8b3457bb143b68ce3db65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIME
+    second: {fileID: 2100000, guid: f8f73cdeb7cbe4294b864ed9e6b5ea0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAGENTA
+    second: {fileID: 2100000, guid: b5a5865f0c9574743935d7084c094bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_a
+    second: {fileID: 2100000, guid: 53b80fa9a1aba41c2bb087411e27bf04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Progress
+    second: {fileID: 2100000, guid: 9b2aafaeba5bb493295c17fde5d0ba25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YELLOW
+    second: {fileID: 2100000, guid: d4254440fedb14bbd813264ddd6734a6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 001Surface_Color
+    second: {fileID: 2800000, guid: 926f63af90a60491590a81caf88067cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 005aSurface_Color
+    second: {fileID: 2800000, guid: f6920a896c5e743acbf96d3415a545f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 007aSurface_Color
+    second: {fileID: 2800000, guid: 298b5e7bbf2cd4fe395705a4f2bf1685, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 008bSurface_Color
+    second: {fileID: 2800000, guid: 3e419f8b561bc4d029c66611a690170b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 009bSurface_Color
+    second: {fileID: 2800000, guid: edbd1f97416944307bcf9d209a0b5348, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B001a.1Surface_Color
+    second: {fileID: 2800000, guid: d28872531f34f440999da357e615e4d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B003Surface_Color
+    second: {fileID: 2800000, guid: 89be897394d14442f9e2ad4d8f526a9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B004Surface_Color
+    second: {fileID: 2800000, guid: dcb97d9b682514ac195e7388efb966aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B005Surface_Color
+    second: {fileID: 2800000, guid: ae4e73391ccd2481b8a647691df7898a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B006Surface_Color
+    second: {fileID: 2800000, guid: 736ad296a90fc45c290bb69355ea0c13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B007Surface_Color
+    second: {fileID: 2800000, guid: 632d406fa8aa140f083940dd3b307d03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_aSurface_Color
+    second: {fileID: 2800000, guid: 4ca314a53057f4fbd92ab462aae76835, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TASK ONE@2x
+    second: {fileID: 2800000, guid: eea8624733f1d41628cb93549ff4e462, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Your Progress@2x
+    second: {fileID: 2800000, guid: 2309b55b260904a368eafeb3ac59ef2b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
